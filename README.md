@@ -1,2 +1,2 @@
 # abc2book_free_music
-Free audio recordings under a Creative Commons license.
+Free music audio recordings under a Creative Commons license.
